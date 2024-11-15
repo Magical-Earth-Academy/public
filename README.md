@@ -67,4 +67,4 @@ Some of the activities which will be suggested are:
 
 - Players could choose to **team up and host live art-science performances**, community **“Food & Learn” experiences** (some of which are already planned as part of Vitalia), and workshops, and gain NFT credentials and points for their contributions. If players are very active and the voting “temperature checks” are positive, we can ultimately envisage creating themed quests or mini-games around different science topics in Vitalia, and completing these quests would unlock deeper knowledge layers, virtual items, or access to special events. Sponsors could host challenges where groups work together to answer open scientific questions and collaborative efforts could be rewarded with PoV tokens, reputation points, or unique badges, encouraging teamwork. Finally, findings or experiences can be contributed to a decentralized, open research library that grows with each user’s input.
 
-
+The initial Core Design team during the hackathon has been rewarded with [NFTs](https://opensea.io/assets/base/0x063da870a14739ccab806f03e88e86891f76ab6d/1).
