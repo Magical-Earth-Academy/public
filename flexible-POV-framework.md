@@ -27,3 +27,15 @@ Based on the Tudor Vianu translations and additional discussions and conversatio
 **4. Facilitate Self-Valorization:** provide tools for contributors to reflect and report their own impact, and encourage storytelling of contributions to provide qualitative insights.
 
 **5. Conduct Peer and Collective Evaluation:** use feedback loops to validate contributions from a multi-value perspective, and ensure fairness and avoid bias by including diverse perspectives.
+
+## Subjective vs. Collective Values 
+
+From the theory of value translations from Tudor Vianu, the end of Part I led to the following key points which allow us to better understand the subjective vs. the collective values and how to grasp them:
+
+**1. Universality of Values:** unlike personal images or emotions that are unique to the individual, values inherently contain the possibility of being shared and affirmed by others. If something is perceived as good or beautiful, it is assumed that others can recognize it in the same way, provided they experience the corresponding desire.
+
+**2. Solidarity Through Values:** valuing is never an isolated act - values inherently carry the potential for human solidarity and collective agreement. This contrasts with subjective experiences such as emotions, which are self-contained and do not necessarily imply shared recognition.
+
+**3. The Impossibility of Private Values:** a value cannot exist if it is meaningful only to a single individual; an economic, aesthetic, or ethical value must be applicable to others to truly be considered a value. The idea of a beauty or moral excellence known only to oneself contradicts the very nature of values.
+
+**4. Subjective Limitations:** differences in value perception arise not because values are inherently subjective, but because an individual's "axiological perspective" may not yet be broad enough to grasp values that others recognize. Values exist objectively, and it is the capacity to apprehend them that varies among individuals. **Equally different would be the hierarchy of values depending on the individual context.**
